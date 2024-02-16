@@ -25,7 +25,7 @@ Starting with the latest [Tachiyomi version](https://tachiyomi.org/download/) (v
 > All extensions in this repo have a custom package name. While this technically allows you to install them alongside the old removed official extensions, it is not recommended and can cause issues. Uninstall the old extensions to avoid source conflicts.
 
 ### Direct APK downloads
-You can also directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
+You can also directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/LANqed/tachiyomi-extensions-revived/tree/repo/apk).
 
 After installing any unofficial extension, you must **manually** enable the extension in Tachiyomi.
 
